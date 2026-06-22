@@ -1,4 +1,4 @@
-# Magic 8 Ball Simulator
+# Magic 8 Ball
 
 A simple Python program that simulates the behavior of a Magic 8 Ball. The user asks a yes-or-no question, and the program responds with a randomly selected answer from a list of twenty possible responses.
 
